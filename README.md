@@ -1,4 +1,3 @@
-##                                            ContactBook
 
 # Usage 
 python ContactBook.py
