@@ -4,5 +4,5 @@
 python ContactBook.py
 
 # To-Do List
--Add GUI
--Fix search filter
+<li>Add GUI</li>
+<li>Fix search filter</li>
