@@ -1,8 +1,8 @@
 ## ContactBook
 
-#Usage 
+# Usage 
 python ContactBook.py
 
-#To-Do List
+# To-Do List
 -Add GUI
 -Fix search filter
