@@ -4,7 +4,7 @@ name = raw_input("What would you like to call your address book?: >")+".txt"
 c = open(name, "a")
 print open(name, "a")
 
-c = open("Test.txt", "r")
+# c = open("Test.txt", "r")
 
 
 def main_menu():
