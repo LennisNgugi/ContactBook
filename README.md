@@ -1,6 +1,6 @@
 
 # Usage 
-python2 ContactBook.pyy
+python2 ContactBook.py
 
 # To-Do List
 <li>Add Encryption</li>
